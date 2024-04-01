@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/henghuiding?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/henghuiding)
 
 - 🔭  Researcher woking on Computer Vision and Artificial Intelligence
-- 🌎  Singapore
+- 🌎  Shanghai, China
 
 #### Links:
 
